@@ -2,5 +2,5 @@ CI pipeline
 main
 { 
 branch
-configure github actions to: build the application and create docker image
+ on push: main
 }
